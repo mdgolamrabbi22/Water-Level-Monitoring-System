@@ -158,7 +158,7 @@ if (now - lastLedToggle >= ledInterval) {
 - Data logging (SD card)
 - Web dashboard integration
 
----
+----
 
 ## 👨‍💻 Developer
 
