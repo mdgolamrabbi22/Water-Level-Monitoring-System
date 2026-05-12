@@ -1,0 +1,19 @@
+HC-SR04 Ultrasonic
+        ------------------------
+        VCC → 5V (Arduino)
+        GND → GND
+        TRIG → D9
+        ECHO → D10
+
+          LEDs
+        ------------------------
+        LED1 → D4 → (220Ω) → GND
+        LED2 → D5 → (220Ω) → GND
+        LED3 → D6 → (220Ω) → GND
+
+          Buzzer
+        ------------------------
+        Buzzer + → D7
+        Buzzer - → GND
+
+        Arduino Powered by USB
