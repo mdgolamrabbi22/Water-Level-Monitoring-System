@@ -160,9 +160,9 @@ if (now - lastLedToggle >= ledInterval) {
 
 ----
 
-## 👨‍💻 Developer
+## 👨‍💻 Developer Md Golam Rabbi
 
-**Name:** Md Golam Rabbi
+
 **Institution:** Barisal Polytechnic Institute  
 **Project Type:** IoT / Hardware Project  
 **Domain:** Embedded Systems / Arduino Programming
