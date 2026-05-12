@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💧 Water Level Monitoring System
 ### Arduino-based 3-Stage Ultrasonic Alert System
 
@@ -162,6 +163,10 @@ if (now - lastLedToggle >= ledInterval) {
 
 ## 👨‍💻 Developer
 
-**Institution:** Barisal Polytechnic Institute  
-**Project Type:** IoT / Hardware Project  
-**Domain:** Embedded Systems / Arduino Programming
+ **Name:** Md Golam Rabbi
+ **Institution:** Barisal Polytechnic Institute
+ **Project Type:** IoT / Hardware Project
+ **Domain:** Embedded Systems / Arduino Programming
+=======
+# Water-Level-Monitoring-System
+>>>>>>> d348b1ff6875ed3a2b46e0167b377953da7307d9
